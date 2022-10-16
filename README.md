@@ -15,7 +15,7 @@ Curso Técnico em Informática Integrado no IFSP Campinas e esse é o meu Github
 
 
 <h3>Projetos em que estou trabalhando</h3>
-- <a href="https://github.com/kamilamartd/Ecommerce">E-commerce</a>
+<a href="https://github.com/kamilamartd/Ecommerce">E-commerce</a>
 
 
 <br>
