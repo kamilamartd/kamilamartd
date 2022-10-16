@@ -18,10 +18,3 @@ Curso Técnico em Informática Integrado no IFSP Campinas e esse é o meu Github
 <a href="https://github.com/kamilamartd/Ecommerce">E-commerce</a>
 
 
-<br>
-<br>
-
-<div align="center">
-  <a href="https://github.com/kamilamartd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilamartd&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-</div>
