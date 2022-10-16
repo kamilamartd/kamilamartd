@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1> Eu sou a Kamila :) </h1>
 
-<!--
-**kamilamartd/kamilamartd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curso Técnico em Informática Integrado no IFSP Campinas e esse é o meu Github. <br> Seja bem vind@!
 
-Here are some ideas to get you started:
+- Além de tecnologia, também amo Design Gráfico e UI/UX Design
+- Descobri a programação em uma maratona de Phyton, em 2018
+- Gosto de falar sobre o nada e o tudo
+- Ouço música a todo tempo 
+- E academia é minha terceira casa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>Estou estudando</h3>
+
+- Javascript 
+
+
+<h3>Projetos em que estou trabalhando</h3>
+
+
+
+<br>
+<br>
+
+<div align="left">
+  <a href="https://github.com/kamilamartd">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilamartd&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</div>
+
+  
