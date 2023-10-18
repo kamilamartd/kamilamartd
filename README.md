@@ -8,12 +8,4 @@ Curso Técnico em Informática Integrado no IFSP Campinas e esse é o meu Github
 - E academia é minha terceira casa
 
 
-<h3>Estou estudando</h3>
-
-- Javascript 
-
-
-<h3>Projetos em que estou trabalhando</h3>
-<a href="https://github.com/kamilamartd/Ecommerce">E-commerce</a>
-
 
