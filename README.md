@@ -4,8 +4,7 @@ Curso Técnico em Informática Integrado no IFSP Campinas e esse é o meu Github
 
 - Além de tecnologia, também amo Design Gráfico e UI/UX Design
 - Descobri a programação em uma maratona de Phyton, em 2018
-- Gosto de falar sobre o nada e o tudo
-- Ouço música a todo tempo 
+- Música a todo tempo, o tempo todo
 - E academia é minha terceira casa
 
 
